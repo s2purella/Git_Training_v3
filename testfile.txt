@@ -1,6 +1,0 @@
-this is test file for sample
-and this is another commit from local macine
-
-hello theree 
-
-this new data to this file
